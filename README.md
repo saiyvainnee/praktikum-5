@@ -1,4 +1,5 @@
 ## flowchart
+```mermaid
 flowchart TD
     A(["Mulai"]) --> B["Tampilkan Menu: (L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar"]
     B --> C["Input Pilihan Menu"]
@@ -50,4 +51,4 @@ flowchart TD
     %% Keluar Program
     M --> AH["Tampilkan 'Program selesai'<br>Program berhenti"]
     AH --> AI(["Selesai"])
-
+```
