@@ -245,6 +245,4 @@ while True:
 
 ## Output
 
-![Output](Kode&Output/Outputt.png)
-
-
+![Uploading image.png…]()
